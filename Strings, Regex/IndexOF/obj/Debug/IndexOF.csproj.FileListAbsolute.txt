@@ -1,0 +1,5 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\IndexOF\bin\Debug\IndexOF.exe.config
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\IndexOF\bin\Debug\IndexOF.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\IndexOF\bin\Debug\IndexOF.pdb
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\IndexOF\obj\Debug\IndexOF.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\IndexOF\obj\Debug\IndexOF.pdb

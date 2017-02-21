@@ -1,0 +1,1 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\04NumbersInReversedOrder\bin\Debug\04NumbersInReversedOrder.exe.config

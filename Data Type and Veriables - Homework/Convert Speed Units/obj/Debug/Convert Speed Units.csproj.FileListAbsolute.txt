@@ -1,0 +1,2 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Convert Speed Units\bin\Debug\Convert Speed Units.exe.config
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Convert Speed Units\bin\Debug\Convert Speed Units.exe.config

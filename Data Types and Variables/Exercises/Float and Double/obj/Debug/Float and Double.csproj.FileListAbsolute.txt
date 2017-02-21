@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Float and Double\bin\Debug\Float and Double.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Float and Double\bin\Debug\Float and Double.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Float and Double\bin\Debug\Float and Double.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Float and Double\obj\Debug\Float and Double.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Float and Double\obj\Debug\Float and Double.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Float and Double\obj\Debug\Float and Double.pdb

@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\От десетични в цели\bin\Debug\От десетични в цели.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\От десетични в цели\bin\Debug\От десетични в цели.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\От десетични в цели\bin\Debug\От десетични в цели.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\От десетични в цели\obj\Debug\От десетични в цели.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\От десетични в цели\obj\Debug\От десетични в цели.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\От десетични в цели\obj\Debug\От десетични в цели.pdb

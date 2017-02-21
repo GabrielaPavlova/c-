@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\CenturiestoNanoseconds\bin\Debug\CenturiestoNanoseconds.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\CenturiestoNanoseconds\obj\Debug\CenturiestoNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\CenturiestoNanoseconds\bin\Debug\CenturiestoNanoseconds.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\CenturiestoNanoseconds\bin\Debug\CenturiestoNanoseconds.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\CenturiestoNanoseconds\obj\Debug\CenturiestoNanoseconds.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\CenturiestoNanoseconds\obj\Debug\CenturiestoNanoseconds.pdb

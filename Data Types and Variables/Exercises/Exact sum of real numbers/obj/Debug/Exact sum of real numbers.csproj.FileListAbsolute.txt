@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Exact sum of real numbers\bin\Debug\Exact sum of real numbers.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Exact sum of real numbers\bin\Debug\Exact sum of real numbers.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Exact sum of real numbers\bin\Debug\Exact sum of real numbers.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Exact sum of real numbers\obj\Debug\Exact sum of real numbers.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Exact sum of real numbers\obj\Debug\Exact sum of real numbers.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Exact sum of real numbers\obj\Debug\Exact sum of real numbers.pdb

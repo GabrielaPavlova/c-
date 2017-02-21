@@ -1,0 +1,9 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.pdb
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\VariableinHexadecimalFormat\bin\Debug\VariableinHexadecimalFormat.exe.config
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.exe
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\VariableinHexadecimalFormat\obj\Debug\VariableinHexadecimalFormat.pdb

@@ -1,0 +1,5 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe.config
+c:\users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a Filled Square\bin\Debug\Draw a Filled Square.pdb
+c:\users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a Filled Square\obj\Debug\Draw a Filled Square.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a Filled Square\obj\Debug\Draw a Filled Square.pdb

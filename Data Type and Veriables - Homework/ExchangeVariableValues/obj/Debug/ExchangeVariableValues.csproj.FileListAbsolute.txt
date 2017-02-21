@@ -1,0 +1,8 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

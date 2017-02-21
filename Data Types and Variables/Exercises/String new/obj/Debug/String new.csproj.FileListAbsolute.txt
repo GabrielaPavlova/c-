@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\String new\bin\Debug\String new.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\String new\bin\Debug\String new.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\String new\bin\Debug\String new.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\String new\obj\Debug\String new.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\String new\obj\Debug\String new.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\String new\obj\Debug\String new.pdb

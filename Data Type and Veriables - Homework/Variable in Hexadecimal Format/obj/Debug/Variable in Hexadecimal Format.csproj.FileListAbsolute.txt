@@ -1,0 +1,1 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config

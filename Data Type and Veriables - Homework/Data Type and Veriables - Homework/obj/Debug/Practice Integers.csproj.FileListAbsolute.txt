@@ -1,0 +1,9 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Data Type and Veriables - Homework\bin\Debug\Data Type and Veriables - Homework.exe.config
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Data Type and Veriables - Homework\bin\Debug\Data Type and Veriables - Homework.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Data Type and Veriables - Homework\bin\Debug\Data Type and Veriables - Homework.pdb
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Data Type and Veriables - Homework\obj\Debug\Practice Integers.csprojResolveAssemblyReference.cache
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Data Type and Veriables - Homework\obj\Debug\Data Type and Veriables - Homework.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Data Type and Veriables - Homework\obj\Debug\Data Type and Veriables - Homework.pdb
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Data Type and Veriables - Homework\bin\Debug\Data Type and Veriables - Homework.exe.config
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Data Type and Veriables - Homework\obj\Debug\Data Type and Veriables - Homework.exe
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Data Type and Veriables - Homework\obj\Debug\Data Type and Veriables - Homework.pdb

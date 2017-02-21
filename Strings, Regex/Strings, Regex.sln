@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Campare", "Strings, Regex\Campare.csproj", "{0064CF8A-47C0-411B-A5AC-77F285856F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concat", "Concat\Concat.csproj", "{7203F794-BE6C-4A4D-B619-BB1648BF708A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOF", "IndexOF\IndexOF.csproj", "{510C118D-8ECC-42FB-B8E1-AB99EA4297FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Count Substring Occurrences", "2.Count Substring Occurrences\2.Count Substring Occurrences.csproj", "{119181AD-D5E9-4C19-85A0-0030DD6A60EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0064CF8A-47C0-411B-A5AC-77F285856F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0064CF8A-47C0-411B-A5AC-77F285856F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0064CF8A-47C0-411B-A5AC-77F285856F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0064CF8A-47C0-411B-A5AC-77F285856F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7203F794-BE6C-4A4D-B619-BB1648BF708A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7203F794-BE6C-4A4D-B619-BB1648BF708A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7203F794-BE6C-4A4D-B619-BB1648BF708A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7203F794-BE6C-4A4D-B619-BB1648BF708A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510C118D-8ECC-42FB-B8E1-AB99EA4297FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510C118D-8ECC-42FB-B8E1-AB99EA4297FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510C118D-8ECC-42FB-B8E1-AB99EA4297FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510C118D-8ECC-42FB-B8E1-AB99EA4297FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119181AD-D5E9-4C19-85A0-0030DD6A60EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119181AD-D5E9-4C19-85A0-0030DD6A60EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119181AD-D5E9-4C19-85A0-0030DD6A60EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119181AD-D5E9-4C19-85A0-0030DD6A60EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

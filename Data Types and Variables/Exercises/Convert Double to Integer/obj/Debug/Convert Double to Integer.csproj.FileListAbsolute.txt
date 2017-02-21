@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Convert Double to Integer\bin\Debug\Convert Double to Integer.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Convert Double to Integer\bin\Debug\Convert Double to Integer.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Convert Double to Integer\bin\Debug\Convert Double to Integer.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Convert Double to Integer\obj\Debug\Convert Double to Integer.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Convert Double to Integer\obj\Debug\Convert Double to Integer.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Convert Double to Integer\obj\Debug\Convert Double to Integer.pdb

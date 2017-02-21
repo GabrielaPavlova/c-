@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Деление с цели и десетични числа\bin\Debug\Деление с цели и десетични числа.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Деление с цели и десетични числа\bin\Debug\Деление с цели и десетични числа.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Деление с цели и десетични числа\bin\Debug\Деление с цели и десетични числа.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Деление с цели и десетични числа\obj\Debug\Деление с цели и десетични числа.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Деление с цели и десетични числа\obj\Debug\Деление с цели и десетични числа.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Деление с цели и десетични числа\obj\Debug\Деление с цели и десетични числа.pdb

@@ -1,0 +1,5 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.pdb

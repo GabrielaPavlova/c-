@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.pdb

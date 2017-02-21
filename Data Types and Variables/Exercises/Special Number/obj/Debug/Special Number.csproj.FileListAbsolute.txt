@@ -1,0 +1,2 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Special Number\bin\Debug\Special Number.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Special Number\obj\Debug\Special Number.csprojResolveAssemblyReference.cache

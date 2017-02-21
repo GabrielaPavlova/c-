@@ -1,0 +1,8 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Practice Characters and Strings\bin\Debug\Practice Characters and Strings.exe.config
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Practice Characters and Strings\bin\Debug\Practice Characters and Strings.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Practice Characters and Strings\bin\Debug\Practice Characters and Strings.pdb
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Practice Characters and Strings\obj\Debug\Practice Characters and Strings.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Practice Characters and Strings\obj\Debug\Practice Characters and Strings.pdb
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Practice Characters and Strings\bin\Debug\Practice Characters and Strings.exe.config
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Practice Characters and Strings\obj\Debug\Practice Characters and Strings.exe
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Practice Characters and Strings\obj\Debug\Practice Characters and Strings.pdb

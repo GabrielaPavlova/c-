@@ -1,0 +1,9 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\Strings, Regex\bin\Debug\Strings, Regex.exe.config
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\Strings, Regex\bin\Debug\Strings, Regex.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\Strings, Regex\bin\Debug\Strings, Regex.pdb
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\Strings, Regex\obj\Debug\Campare.csprojResolveAssemblyReference.cache
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\Strings, Regex\obj\Debug\Strings, Regex.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\Strings, Regex\obj\Debug\Strings, Regex.pdb
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Strings, Regex\Strings, Regex\bin\Debug\Strings, Regex.exe.config
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Strings, Regex\Strings, Regex\obj\Debug\Strings, Regex.exe
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Strings, Regex\Strings, Regex\obj\Debug\Strings, Regex.pdb

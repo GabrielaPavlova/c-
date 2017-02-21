@@ -1,0 +1,5 @@
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\2.Count Substring Occurrences\bin\Debug\2.Count Substring Occurrences.exe.config
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\2.Count Substring Occurrences\bin\Debug\2.Count Substring Occurrences.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\2.Count Substring Occurrences\bin\Debug\2.Count Substring Occurrences.pdb
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\2.Count Substring Occurrences\obj\Debug\2.Count Substring Occurrences.exe
+c:\users\gabri\documents\visual studio 2015\Projects\Strings, Regex\2.Count Substring Occurrences\obj\Debug\2.Count Substring Occurrences.pdb

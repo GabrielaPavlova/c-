@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Fahrenheit to Celsius\bin\Debug\Fahrenheit to Celsius.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Fahrenheit to Celsius\bin\Debug\Fahrenheit to Celsius.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Fahrenheit to Celsius\bin\Debug\Fahrenheit to Celsius.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Fahrenheit to Celsius\obj\Debug\Fahrenheit to Celsius.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Fahrenheit to Celsius\obj\Debug\Fahrenheit to Celsius.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Fahrenheit to Celsius\obj\Debug\Fahrenheit to Celsius.pdb

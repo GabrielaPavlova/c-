@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Triples of Letters\bin\Debug\Triples of Letters.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Triples of Letters\bin\Debug\Triples of Letters.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Triples of Letters\bin\Debug\Triples of Letters.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Triples of Letters\obj\Debug\Triples of Letters.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Triples of Letters\obj\Debug\Triples of Letters.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Triples of Letters\obj\Debug\Triples of Letters.pdb

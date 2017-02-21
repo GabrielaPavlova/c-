@@ -1,0 +1,5 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.pdb

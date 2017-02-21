@@ -1,0 +1,9 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Rectangle Properties\bin\Debug\Rectangle Properties.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Rectangle Properties\bin\Debug\Rectangle Properties.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Rectangle Properties\obj\Debug\Rectangle Properties.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\Data Type and Veriables - Homework\Rectangle Properties\obj\Debug\Rectangle Properties.pdb
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+C:\Users\gabri\Desktop\softuni\Tech Module\Programing Fundamentals\Data Types and Variables - Exercises\Data Type and Veriables - Homework\Rectangle Properties\obj\Debug\Rectangle Properties.pdb

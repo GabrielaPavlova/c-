@@ -1,0 +1,5 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Greating\bin\Debug\Greating.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Greating\bin\Debug\Greating.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Greating\bin\Debug\Greating.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Greating\obj\Debug\Greating.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Greating\obj\Debug\Greating.pdb

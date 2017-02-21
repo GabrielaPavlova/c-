@@ -1,0 +1,6 @@
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe.config
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.pdb
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.exe
+C:\Users\gabri\documents\visual studio 2015\Projects\ConsoleApplication2\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.pdb
